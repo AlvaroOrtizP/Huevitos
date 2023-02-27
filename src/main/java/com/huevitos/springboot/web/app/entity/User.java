@@ -12,4 +12,8 @@ public class User {
 	
 	@Id
 	private BigDecimal usuarioId;
+	
+	private String algo;
+	
+	private String algo2;
 }
